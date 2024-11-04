@@ -8,8 +8,6 @@ Recent graduate with skills in network configuration, troubleshooting, and secur
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -44,6 +42,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-2F9D27?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Network%20Essentials-6A1B9A?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
