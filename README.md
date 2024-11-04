@@ -1,7 +1,8 @@
 # Hello, I'm Josiah 👋
 <a href="http://www.linkedin.com/in/josiahsam"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent graduate with skills in network configuration, troubleshooting, and security analysis across Windows, Linux, and Cisco environments. Proficient in tools like Wireshark and Nmap, with scripting abilities in Bash and Python to streamline workflows and improve system functionality.
+I'm a recent graduate passionate about threat detection, network security, and incident response. Skilled in using tools like Splunk, Wireshark, and Nessus, with experience in security projects involving ELK, vulnerability assessments, and network defense. Always learning and ready to tackle challenges in IT security!
+
 
 ## Objective
 
