@@ -5,8 +5,8 @@ I'm a recent graduate passionate about threat detection, network security, and i
 
 
 ## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+🚀 Cybersecurity Enthusiast | SOC Analyst in Training | CompTIA Security+ Certified
+-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 | Skill                                         | Associated Project         |
