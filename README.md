@@ -3,7 +3,7 @@
 
 🚀 Cybersecurity Enthusiast | SOC Analyst in Training | CompTIA Security+ Certified
 
-I'm a recent graduate passionate about threat detection, network security, and incident response. Skilled in using tools like Splunk, Wireshark, and Nessus, with experience in security projects involving ELK, vulnerability assessments, and network defense. Always learning and ready to tackle challenges in IT security!
+I'm a recent graduate passionate about threat detection, network security, and incident response. Experienced with tools such as Wireshark, Wazuh, and Linux, with hands-on involvement in security projects focused on defense strategies. Always learning and ready to tackle challenges in IT security!
 
 
 ## Objective
