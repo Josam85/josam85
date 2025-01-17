@@ -23,10 +23,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
+<!-- ### Endpoint
 <div>
 
-</div>
+</div> -->
 
 ### SIEM
 <div>
