@@ -1,7 +1,7 @@
 # Hello, I'm Josiah 👋
 <a href="http://www.linkedin.com/in/josiahsam"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🚀 Cybersecurity Enthusiast | SOC Analyst in Training | CompTIA Security+ Certified
+🚀 Cybersecurity Enthusiast | CompTIA Security+ Certified 
 
 I'm a recent graduate passionate about threat detection, network security, and incident response. Experienced with tools such as Wireshark, Wazuh, and Linux, with hands-on involvement in security projects focused on defense strategies. Always learning and ready to tackle challenges in IT security!
 
