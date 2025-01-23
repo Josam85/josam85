@@ -7,14 +7,14 @@ I'm a recent graduate passionate about threat detection, network security, and i
 
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field spefically as a soc anaylst or a vulnerability management specialist
 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis       | <a href="https://github.com/Josam85/SIEM-Home-Lab">SIEM Home Lab</a>|
-<!-- in Progress! | Vulnerability Management and Remediation| <a href="https://google.com">Nessus Vulnerability Management Lab</a>| -->
-<!-- in Progress! |Nist Framework Compliance| <a href="https://google.com">Nessus Vulnerability Management Lab</a>| --> 
+| Vulnerability Management and Remediation| <a href="https://github.com/Josam85/Nessus-Vulnerability-Management-Lab">Nessus Vulnerability Management Lab</a>| 
+|Nist Framework Compliance| <a href="https://github.com/Josam85/Nessus-Vulnerability-Management-Lab">Nessus Vulnerability Management Lab</a>|
 <!-- in Progress! | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| -->
 
 ## Tools
@@ -44,5 +44,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Josam85/SIEM-Home-Lab">SIEM-Home-Lab</a>
+- <a href="https://github.com/Josam85/SIEM-Home-Lab">SIEM Home Lab</a>
+- <a href="https://github.com/Josam85/Nessus-Vulnerability-Management-Lab">Nessus Vulnerability Management Lab</a>
 
