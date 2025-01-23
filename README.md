@@ -12,9 +12,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis       | <a href="https://github.com/Josam85/SIEM-Home-Lab">SIEM-Home-Lab</a>|
+| SIEM Implementation and Log Analysis       | <a href="https://github.com/Josam85/SIEM-Home-Lab">SIEM Home Lab</a>|
+<!-- in Progress! | Vulnerability Management and Remediation| <a href="https://google.com">Nessus Vulnerability Management Lab</a>| -->
+<!-- in Progress! |Nist Framework Compliance| <a href="https://google.com">Nessus Vulnerability Management Lab</a>| --> 
 <!-- in Progress! | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| -->
-
 
 ## Tools
 
