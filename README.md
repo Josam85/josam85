@@ -1,7 +1,7 @@
 # Hello, I'm Josiah 👋
 <a href="http://www.linkedin.com/in/josiahsam"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🚀 Cybersecurity Enthusiast | CompTIA Security+ Certified 
+🚀 Cybersecurity Enthusiast | CompTIA Security+  & Cysa+ Certified 
 
 I'm a recent graduate passionate about threat detection, network security, and incident response. Experienced with tools such as Wireshark, Wazuh, and Linux, with hands-on involvement in security projects focused on defense strategies. Always learning and ready to tackle challenges in IT security!
 
@@ -38,8 +38,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-2F9D27?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Network%20Essentials-6A1B9A?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
+
+
 
 </div>
 
