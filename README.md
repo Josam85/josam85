@@ -41,6 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Linux%20Essentials-2F9D27?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Network%20Essentials-6A1B9A?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Administrator-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 
 
 
